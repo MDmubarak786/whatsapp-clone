@@ -33,12 +33,12 @@ List<ChatModel> dummyData = [
       time: "10:30",
       avatarUrl:
           "https://img1.looper.com/img/gallery/every-marvel-superhero-you-can-expect-to-see-in-black-widow/intro-1582894542.jpg"),
-  // new ChatModel(
-  //     name: "Captain Marvel",
-  //     message: "I'll help you tony for save this world.",
-  //     time: "12:30",
-  //     avatarUrl:"https://moviereviewmom.com/wp-content/uploads/2019/03/Captain-Marvel-movie-poster.jpg"),
-  //
+  new ChatModel(
+      name: "Captain Marvel",
+      message: "I'll help you tony for save this world.",
+      time: "12:30",
+      avatarUrl:"https://moviereviewmom.com/wp-content/uploads/2019/03/Captain-Marvel-movie-poster.jpg"),
+
   // new ChatModel(
   //     name: "Ant Man",
   //     message: "Shall we go out today!",
