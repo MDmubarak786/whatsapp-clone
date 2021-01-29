@@ -27,12 +27,12 @@ List<ChatModel> dummyData = [
       avatarUrl:
       "https://th.bing.com/th/id/Rb5929ef619c4f3b6b82991a52dfd7e60?rik=0CU%2f%2fw%2bn03309A&riu=http%3a%2f%2fwww.zbrushcentral.com%2fattachment.php%3fattachmentid%3d580569&ehk=yU1EnBA9wJFLGCle85LksmnaYUPBH2zI2qwCoxKR3Is%3d&risl=&pid=ImgRaw"),
 
-  // new ChatModel(
-  //     name: "Natasha",
-  //     message: "You have appointments Tony!",
-  //     time: "10:30",
-  //     avatarUrl:
-  //         "https://img1.looper.com/img/gallery/every-marvel-superhero-you-can-expect-to-see-in-black-widow/intro-1582894542.jpg"),
+  new ChatModel(
+      name: "Natasha",
+      message: "You have appointments Tony!",
+      time: "10:30",
+      avatarUrl:
+          "https://img1.looper.com/img/gallery/every-marvel-superhero-you-can-expect-to-see-in-black-widow/intro-1582894542.jpg"),
   // new ChatModel(
   //     name: "Captain Marvel",
   //     message: "I'll help you tony for save this world.",
