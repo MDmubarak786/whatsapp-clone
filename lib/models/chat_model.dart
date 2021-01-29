@@ -51,10 +51,10 @@ List<ChatModel> dummyData = [
       time: "5:00",
       avatarUrl:
       "https://boundingintocomics.com/files/2018/05/Hulk.jpg"),
-  // new ChatModel(
-  //     name: "War Machine",
-  //     message: "I was changing the guns in my suit while you called me",
-  //     time: "15:30",
-  //     avatarUrl:
-  //     "https://th.bing.com/th/id/Rcf2b26b219360744dfed50f798e8e5cd?rik=NlU30pV%2fPV4eCw&riu=http%3a%2f%2fstatic2.wikia.nocookie.net%2f__cb20131128031056%2fmarvelmovies%2fimages%2f7%2f77%2fWar_Machine_character.jpg&ehk=%2flchxPsjIdWRjgvEvedGTDqmQgC0%2bDDO05PPHSwyB%2bQ%3d&risl=&pid=ImgRaw"),
+  new ChatModel(
+      name: "War Machine",
+      message: "I was changing the guns in my suit while you called me",
+      time: "15:30",
+      avatarUrl:
+      "https://th.bing.com/th/id/Rcf2b26b219360744dfed50f798e8e5cd?rik=NlU30pV%2fPV4eCw&riu=http%3a%2f%2fstatic2.wikia.nocookie.net%2f__cb20131128031056%2fmarvelmovies%2fimages%2f7%2f77%2fWar_Machine_character.jpg&ehk=%2flchxPsjIdWRjgvEvedGTDqmQgC0%2bDDO05PPHSwyB%2bQ%3d&risl=&pid=ImgRaw"),
 ];
