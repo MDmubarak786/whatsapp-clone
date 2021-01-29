@@ -39,12 +39,12 @@ List<ChatModel> dummyData = [
       time: "12:30",
       avatarUrl:"https://moviereviewmom.com/wp-content/uploads/2019/03/Captain-Marvel-movie-poster.jpg"),
 
-  // new ChatModel(
-  //     name: "Ant Man",
-  //     message: "Shall we go out today!",
-  //     time: "15:30",
-  //     avatarUrl:
-  //         "https://th.bing.com/th/id/OIP.8oSEywqoo7dUbifZOQg_igHaL1?w=197&h=315&c=7&o=5&dpr=1.25&pid=1.7"),
+  new ChatModel(
+      name: "Ant Man",
+      message: "Shall we go out today!",
+      time: "15:30",
+      avatarUrl:
+          "https://th.bing.com/th/id/OIP.8oSEywqoo7dUbifZOQg_igHaL1?w=197&h=315&c=7&o=5&dpr=1.25&pid=1.7"),
   // new ChatModel(
   //     name: "Hulk",
   //     message: "I am again changed to normal man,enjoying my Life with my wife!",
