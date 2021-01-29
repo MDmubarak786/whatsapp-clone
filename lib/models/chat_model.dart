@@ -45,12 +45,12 @@ List<ChatModel> dummyData = [
       time: "15:30",
       avatarUrl:
           "https://th.bing.com/th/id/OIP.8oSEywqoo7dUbifZOQg_igHaL1?w=197&h=315&c=7&o=5&dpr=1.25&pid=1.7"),
-  // new ChatModel(
-  //     name: "Hulk",
-  //     message: "I am again changed to normal man,enjoying my Life with my wife!",
-  //     time: "5:00",
-  //     avatarUrl:
-  //     "https://boundingintocomics.com/files/2018/05/Hulk.jpg"),
+  new ChatModel(
+      name: "Hulk",
+      message: "I am again changed to normal man,enjoying my Life with my wife!",
+      time: "5:00",
+      avatarUrl:
+      "https://boundingintocomics.com/files/2018/05/Hulk.jpg"),
   // new ChatModel(
   //     name: "War Machine",
   //     message: "I was changing the guns in my suit while you called me",
