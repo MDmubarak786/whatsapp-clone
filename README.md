@@ -1,16 +1,20 @@
-# whatsapp
+# 🦾 Fingertip 👀 
 
-A new Flutter application.
+👋 ❤️This is Flutter application made it for Easily access your apps through one app .This is useful for large number of apps using in one mobile.
+this app helpfull to open the another app from this app .using this app we don't want to remember the where are the apps.
 
-## Getting Started
+🟢 Added Splash Screen
 
-This project is a starting point for a Flutter application.
+🟢 In this app , I added some Categories based apps will available in the folder.
 
-A few resources to get you started if this is your first Flutter project:
+🟢 using this app you can feeel better.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+🟢 Last About page I am added some social network account links in that page.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+##
+
+# 🤳 ScreenShots 👀 
+sdgdbdrfb
+dhfthtfn
