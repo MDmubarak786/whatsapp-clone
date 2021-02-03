@@ -1,4 +1,6 @@
-# 🦾 Whatsapp 👀 
+<h1> 🦾 Whatsapp 👀 <h1/> 
+
+```
 
 👋 ❤️This is Flutter application . clone of whatsapp.
 
@@ -8,11 +10,10 @@
 
 🟢 I added one man photo like both hands are joined together . He is superstar of Indian Cinema . If you don't know means just search on google he will come at there.
 
+```
 ##
 
 # 🤳 ScreenShots 👀 
-sdgdbdrfb
-dhfthtfn
 
 ![1](https://user-images.githubusercontent.com/44917891/106760136-7b331580-6659-11eb-8354-b2da6d1bb309.jpg)
 ![2](https://user-images.githubusercontent.com/44917891/106760141-7cfcd900-6659-11eb-9a95-d2fd3b4d616a.jpg)
