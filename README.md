@@ -9,7 +9,11 @@
 
 🟢 added camers access , chat , status , and then calls page.
 
-🟢 I added one man photo like both hands are joined together . He is superstar of Indian Cinema . If you don't know means just search on google he will come at there.
+🟢 I added one man photo like both hands are joined together . 
+
+🟢 He is superstar of Indian Cinema . 
+
+🟢 If you don't know means just search on google he will come at there.
 
 ```
 
