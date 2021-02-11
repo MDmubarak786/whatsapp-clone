@@ -3,15 +3,17 @@
 
 ```
 
-👋 ❤️This is Flutter application . clone of whatsapp.
+👋 ❤️This is Flutter application.
 
-🟢 In this app , I added messages like marvel actor and actress if make some conversations.
+🟢 clone of whatsapp.
 
-🟢 added camers access , chat , status , and then calls page.
+🟢 In this app ,I added messages like marvel actor and actress if make some conversations.
+
+🟢 added camers access,chat,status,and then calls page.
 
 🟢 I added one man photo like both hands are joined together . 
 
-🟢 He is superstar of Indian Cinema . 
+🟢 He is superstar of Indian Cinema. 
 
 🟢 If you don't know means just search on google he will come at there.
 
