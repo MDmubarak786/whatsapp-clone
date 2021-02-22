@@ -29,6 +29,6 @@
 <img src="https://user-images.githubusercontent.com/44917891/106760151-7f5f3300-6659-11eb-888f-2973bb89b097.jpg" width="400" height="750">   <img src="https://user-images.githubusercontent.com/44917891/106760157-7ff7c980-6659-11eb-8f45-a7a85a477e9f.jpg" width="400" height="750">   
 
 ##
- # 🔴 Kindly Don't forget to give a star and follow ....
+ # 🔴 Kindly Don't forget to give a star and follow .
 
 <b>Copyright © 2021 Mohammed Mubarak</b>
